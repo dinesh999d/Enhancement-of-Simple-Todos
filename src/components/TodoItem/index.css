@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.item-bg {
+  display: flex;
+  justify-content: space-between;
+}
+.name {
+  font-size: 20px;
+  color: #000000;
+}
+.button {
+  background-color: #ffffff;
+  color: #ff0b37;
+  border-color: #ff0b37;
+  border-radius: 10px;
+  height: 40px;
+  width: 10vh;
+}
